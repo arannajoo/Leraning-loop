@@ -1,5 +1,5 @@
 // 러닝루프 오프라인 지원. 앱을 고치면 아래 버전 숫자를 올리세요 (v1 → v2).
-const CACHE = 'learning-loop-v1';
+const CACHE = 'learning-loop-v2';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
